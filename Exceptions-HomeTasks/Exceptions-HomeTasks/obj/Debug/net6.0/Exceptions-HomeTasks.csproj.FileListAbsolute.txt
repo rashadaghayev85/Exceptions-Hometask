@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\bin\Debug\net6.0\Exceptions-HomeTasks.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\bin\Debug\net6.0\Exceptions-HomeTasks.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\bin\Debug\net6.0\Exceptions-HomeTasks.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\bin\Debug\net6.0\Exceptions-HomeTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\bin\Debug\net6.0\Exceptions-HomeTasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\refint\Exceptions-HomeTasks.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\Exceptions-HomeTasks.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Exceptions-HomeTasks\Exceptions-HomeTasks\obj\Debug\net6.0\ref\Exceptions-HomeTasks.dll
