@@ -92,10 +92,10 @@ MathController  mathController = new MathController();
 
 
 //3. Login ucun custom exception yazib isdifade etmek. Eger email ve yaxud password sehvdirse custom exception istifade edin. Models, Services, Controller folderleriniz olacaq. Service mentiqi ile yazirsiz. 
-
+//4. Bir custom exception classi yaradin. Login olan zaman passwordun simvollarinin sayi 6-dan kicikdirse exception cixarsin. 
 UserController userController = new UserController();
 //userController.GetAll();
-userController.Login();
+//userController.Login();(HEM 3CU TASKI hem 4cu taski bir yerde yazmisam)
 
 
 
