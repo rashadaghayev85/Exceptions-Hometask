@@ -124,7 +124,7 @@ namespace Exceptions_HomeTasks.Services
                 }
                 else
                 {
-                    throw new CustomUserFalseException("CustomExceptions!User not found");
+                    throw new CustomUserFalseException("Username or password is wrong");
                 }
              
 
@@ -163,7 +163,7 @@ namespace Exceptions_HomeTasks.Services
                 }
                 else
                 {
-                    throw new CustomUserFalseException("CustomExceptions!User not found");
+                    throw new CustomUserFalseException("Email or password is wrong");
                 }
 
 
